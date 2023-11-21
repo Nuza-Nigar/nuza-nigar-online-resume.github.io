@@ -99,13 +99,9 @@ experience:
       role: Computational Fluid Dynamics Consultant
       location: Bangalore, India
       description: |
-          + Conduct numerical investigations in fluid dynamics, thermal mechanics, and battery thermal management;
-          + Perform Fluid-Structure Interaction ; 
-          + Prepare technical documentation; 
-          + Published and presented conference papers; 
-          + Actively engage in software demonstrations and capabilities presentations;
-          + Client communication for problem-solving and technical discussions.
-
+          + Conducting numerical investigations encompassing fluid dynamics, thermal mechanics, and battery thermal management. 
+          + Executing Fluid-Structure Interaction analyses, preparing technical documentation, publishing conference papers, and actively engaging in software demonstrations, capabilities presentations, as well as client communication for problem-solving and technical discussions.
+    
     - company: Simulation Lab
       link: 'https://www.simulationlab.in/'
       tags: Internship
@@ -113,7 +109,7 @@ experience:
       role: Research Intern
       location: Pune, India
       description: |
-       + Performed computational studies using the Finite Volume Method (Ansys) to optimize the aerodynamic efficiency of the wing flap feature.
+       + Conducted computational studies employing the Finite Volume Method (specifically utilizing Ansys software) with the aim of optimizing the aerodynamic efficiency pertaining to the wing flap feature. This involved meticulous analysis and simulation processes directed towards enhancing the aerodynamic performance of the wing flap through computational modeling and iterative refinement using Ansys-based Finite Volume Method techniques.
 
     - company: Hexagon Manufacturing Intelligence 
       link: 'https://hexagon.com/'

@@ -92,85 +92,85 @@ experience:
   description:
 
   items:
-    - company: Hexagon Manufacturing Inteliigence
+    - company: Hexagon Manufacturing Intelligence
       link: 'https://hexagon.com/'
       tags: Full-time
       date: 2022 - present
       role: Computational Fluid Dynamics Consultant
-      location: Paris-Saclay, France
+      location: Bangalore, India
       description: |
-          Conduct numerical investigations in fluid dynamics, thermal mechanics, and battery thermal management;
+          + Conduct numerical investigations in fluid dynamics, thermal mechanics, and battery thermal management;
           + Perform Fluid-Structure Interaction ; 
           + Prepare technical documentation; 
           + Published and presented conference papers; 
           + Actively engage in software demonstrations and capabilities presentations;
           + Client communication for problem-solving and technical discussions.
 
-    - company: CEA -French Alternative Energies and Atomic Energy Commission
-      link: 'https://www.cea.fr/'
-      tags: CDD contract
-      date: 2019.01 - 2021.01
-      role: Post-doctoral researcher
-      location: Paris-Saclay, France
+    - company: Simulation Lab
+      link: 'https://www.simulationlab.in/'
+      tags: Internship
+      date: 2022.03 - 2022.05
+      role: Research Intern
+      location: Pune, India
       description: |
-        Developed mathamatics/code for HPC FEM solvers for solving nonlinear structural mechanics problems involved in the nuclear technology. And a parallel mesher.
-        + Petascale nuerical code PSD (C++, FreeFEM, PETSc, MFRONT) for fracture, seismic, soil-structure.
+       + Performed computational studies using the Finite Volume Method (Ansys) to optimize the aerodynamic efficiency of the wing flap feature.
 
-    - company: RIKEN Center for Computational Science 
-      link: 'https://www.riken.jp/en/research/labs/r-ccs/'
-      tags: visiting
-      date: 2020.10 - 2020.11
-      role: Visiting research scientist
-      location: Kobe, Japan
-      description: |
-        Collaborated with scientists at RIKEN on new ways of using supercomputing (exa-scale) efficiently in solving physics involved in nuclear technology.
-
-    - company: LTeN -Laboratoire de Thermique et d'Energie de Nantes, CNRS
-      link: 'https://polytech.univ-nantes.fr/fr/la-recherche-et-linnovation/laboratoires-et-equipes/umr-c-6607-laboratoire-de-thermocinetique-de-nantes'
-      tags: CDD contract
-      date: 2019.11 - 2019.12
-      role: Post-doctoral researcher
-      location: Nantes, France
-      description: |
-        Performed research on applied conduction–radiation physics in high temperature industrial material.
-        + used immerse meshing technique with mesh adaption on virtual materials.
-
-    - company: LTeN -Laboratoire de Thermique et d'Energie de Nantes, CNRS
-      link: 'https://polytech.univ-nantes.fr/fr/la-recherche-et-linnovation/laboratoires-et-equipes/umr-c-6607-laboratoire-de-thermocinetique-de-nantes'
-      tags: CDD contract
-      date: 2015.10 - 2018.10
-      role: Doctoral researcher
-      location: Nantes, France
-      description: |
-        Worked in collaboration with Airbus, Dassault Systems, and Safran composites (project SODA). Developed new parallel numerical method (FEM) and software that could solve complex radiative transfer problems.
-
-    - company: LTeN -Laboratoire de Thermique et d'Energie de Nantes, CNRS
-      link: 'https://polytech.univ-nantes.fr/fr/la-recherche-et-linnovation/laboratoires-et-equipes/umr-c-6607-laboratoire-de-thermocinetique-de-nantes'
-      tags: Internship contract
-      date: 2015.02 - 2015.06
-      role: Research intern
-      location: Nantes, France
-      description: |
-        Code development for solving nonlinear fluid problem with FVM. Developed FORTRAN code on Inverse Problem Solution for the NonLinear compressible flow Problem Shock tube case.
-
-    - company: S&I Engineering Solutions Pvt. Ltd.
-      link: 'https://sandi.co.in/'
-      tags: Internship contract
-      date: 2014.05 - 2014.08
-      role: Master intern
+    - company: Hexagon Manufacturing Intelligence 
+      link: 'https://hexagon.com/'
+      tags: Internship
+      date: 2021.06 - 2022.06
+      role: Research Intern
       location: Bangalore, India
       description: |
-        Worked for developing unstructured parallelized EULER fluid flow solver in FORTRAN & MPI. Developed a 2D-FVM fluid solver for compressible flow with shocks (subsonic to hypersonic).
+       + Performed Finite Volume-based thermo-fluid simulations (Cradle CFD software) for design analysis and optimization. 
+       + Flutter Analysis using Fluid-Structure Interaction simulation for NASA’s BSCW wing
+    
+## company: LTeN -Laboratoire de Thermique et d'Energie de Nantes, CNRS
+## link: 'https://polytech.univ-nantes.fr/fr/la-recherche-et-linnovation/laboratoires-et-equipes/umr-c-6607-laboratoire-de-thermocinetique-de-nantes'
+## tags: CDD contract
+##  date: 2019.11 - 2019.12
+##      role: Post-doctoral researcher
+##      location: Nantes, France
+##      description: |
+##        Performed research on applied conduction–radiation physics in high temperature industrial material.
+##        + used immerse meshing technique with mesh adaption on virtual materials. 
 
-    - company: AETOS Design and Engineering
-      link: 'https://www.aetos.co.in/'
-      tags: Internship contract
-      date: 2011.06 - 2011.11
-      role: Bachelor intern
-      location: Bangalore, India
-      description: |
-        Worked with the organization to develop internal design for DLR F6 aircraft wing. Developed a FEM-based C++ code to give rib locations for the DLR F6 wing configuration.
- 
+## company: LTeN -Laboratoire de Thermique et d'Energie de Nantes, CNRS
+##   link: 'https://polytech.univ-nantes.fr/fr/la-recherche-et-linnovation/laboratoires-et-equipes/umr-c-6607-laboratoire-de-thermocinetique-de-nantes'
+##      tags: CDD contract
+##      date: 2015.10 - 2018.10
+##      role: Doctoral researcher
+##      location: Nantes, France
+##      description: |
+##        Worked in collaboration with Airbus, Dassault Systems, and Safran composites (project SODA). Developed new parallel numerical method (FEM) and software that could solve complex radiative transfer problems.
+
+## company: LTeN -Laboratoire de Thermique et d'Energie de Nantes, CNRS
+##   link: 'https://polytech.univ-nantes.fr/fr/la-recherche-et-linnovation/laboratoires-et-equipes/umr-c-6607-laboratoire-de-thermocinetique-de-nantes'
+##      tags: Internship contract
+##      date: 2015.02 - 2015.06
+##      role: Research intern
+##      location: Nantes, France
+##      description: |
+##        Code development for solving nonlinear fluid problem with FVM. Developed FORTRAN code on Inverse Problem Solution for the NonLinear compressible flow Problem Shock tube case.
+
+## company: S&I Engineering Solutions Pvt. Ltd.
+##   link: 'https://sandi.co.in/'
+##      tags: Internship contract
+##      date: 2014.05 - 2014.08
+##      role: Master intern
+##      location: Bangalore, India
+##      description: |
+##        Worked for developing unstructured parallelized EULER fluid flow solver in FORTRAN & MPI. Developed a 2D-FVM fluid solver for compressible flow with shocks (subsonic to hypersonic).
+
+## company: AETOS Design and Engineering
+##   link: 'https://www.aetos.co.in/'
+##      tags: Internship contract
+##      date: 2011.06 - 2011.11
+##      role: Bachelor intern
+##      location: Bangalore, India
+##      description: |
+##        Worked with the organization to develop internal design for DLR F6 aircraft wing. Developed a FEM-based C++ code to give rib locations for the DLR F6 wing configuration.
+
 
 education:
   show: true

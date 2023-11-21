@@ -174,33 +174,34 @@ education:
   title: Education
   description:
   items:
-    - institution: University of Nantes, France
-      link: 'https://www.univ-nantes.fr/'
-      date: 2015 - 2018
-      major: Numerical modeling radiative transfer
-      degree: Doctor of Philosophy
-      description: |
-        Subject: Efficient finite element strategies for solving the radiative transfer equation
+   ## - institution: University of Nantes, France
+##       link: 'https://www.univ-nantes.fr/'
+##       date: 2015 - 2018
+##       major: Numerical modeling radiative transfer
+##       degree: Doctor of Philosophy
+##       description: |
+##         Subject: Efficient finite element strategies for solving the radiative transfer equation
 
-    - institution: University of Nantes, France
-      link: 'https://www.univ-nantes.fr/'
-      date: 2014 - 2015
-      major: Thermal/Fluid and Energy
-      degree: Master of Science (M2)
-      description: |
-        Batch Topper (Rank 1)
+## - institution: University of Nantes, France
+##       link: 'https://www.univ-nantes.fr/'
+##       date: 2014 - 2015
+##       major: Thermal/Fluid and Energy
+##       degree: Master of Science (M2)
+##       description: |
+##         Batch Topper (Rank 1)
+
 
     - institution: University of Petroleum and Energy Studies, India
       link: 'https://www.upes.ac.in/school-of-advanced-engineering'
-      date: 2013 - 2014
+      date: 2020 - 2022
       major: Computational Fluid Dynamics
-      degree: Master of Technology (M1)
+      degree: Master of Technology (M1 & M2)
       description: |
         Batch Topper (Rank 1)
 
-    - institution: Aeronautical Society Of India, India
-      link: 'https://www.aerosocietyindia.co.in/'
-      date: 2008 - 2012
+    - institution: Swami Vivekananda University, Sagar, India
+      link: 'https://www.svnuniversity.co.in/mainsite/home.aspx'
+      date: 2014 - 2018
       major: Aeronautical Engineering
       degree: Bachelor of Technology
       description:
@@ -243,44 +244,29 @@ skill:
 
   items:
     - name:  FEM
-      level: 5
+      level: 2
     - name:  FVM
-      level: 3
-    - name:  DOM
-      level: 5
+      level: 4
+    - name:  FSI
+      level: 4
     - name: Meshing
       level: 4
-    - name: Preconditioning
-      level: 4
-    - name: HPC - CPU
-      level: 4
-    - name: HPC - GPU
-      level: 2
-    - name: mesh-adaption
-      level: 3
-    - name: SUPG
-      level: 5
 
   groups:
     - name: Coding
       item:
-        - C++ 
-        - FreeFEM
-        - FEniCS
         - FORTRAN
         - Latex
-        - Git
+        - Python
+        - MATLAB
     - name: Software’s
       item:
-        - SALOME
+        - ANSYS
+        - Cradle CFD
         - ParaView
-        - Gmsh
+        - MSC CoSim
+        - COMSOL
         - GNUPLOT
-    - name: HPC
-      item:
-        - MPI
-        - MPI I/O
-        - PETSc
 
 certificate:
   show: true
@@ -288,19 +274,19 @@ certificate:
   title: Certificates
   description:
   items:
-    - name: The Finite Element Method for Problems in Physics
-      issuer: University of Michigan (Online)
-      date: 2018
-      link: '#'
+    - name: SimScale for Engineering Simulations - FEA for Beginners 
+      issuer: Coursera Project Network (Online)
+      date: 2021
+      link: 'https://www.coursera.org/projects/simscale-for-engineering-simulations-fea-for-beginners'
       description:
-    - name: Advance course in computational fluid dynamics
-      issuer: FACHWISSEN TECH Center LLP, India
-      date: 2014
+    - name: Machine Learning Foundations: A Case Study Approach
+      issuer: University of Washington (Online)
+      date: 2021
       link:
       description:
     - name: Calculus
       issuer: Ohio State University (Online)
-      date: 2014
+      date: 2021
       link:
       description:
     - name: Advance course in Aerodynamics

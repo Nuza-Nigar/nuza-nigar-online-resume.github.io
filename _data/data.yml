@@ -1,20 +1,20 @@
 basic:
-  name: Mohd Afeef BADRI                      # name
-  title: Research Scientist at CEA, Paris-Saclay           # job title
+  name: Nuza Nigar                      # name
+  title: Computational Fluid Dynamics Analyst at Hexagon Manufacturing Intelligence           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Paris, France  # location
-  email: mohd-afeef.badri@outlook.com    # email address
-  phone:                   # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: mohd-afeef-badri.github.io     # site URL without schema, like example.com, will automatically prepand "https://"
+  location: Bangalore, India  # location
+  email: nigar.nuza@gmail.com    # email address
+  phone: +91 8478929290                   # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website: nuza-nigar.github.io     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
-  birthday:                # birthday
-  nationality:             # nationality
+  birthday: 16/04/1996     # birthday
+  nationality:  Indian     # nationality
   visa:                    # passport visa
   drivinglicense:          # driving licence
 
@@ -28,7 +28,7 @@ contact:
   threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github: mohd-afeef-badri                  # username          | https://github.com/username
+  github:                   # username          | https://github.com/username
   gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
@@ -40,7 +40,7 @@ contact:
 
   # academic
   googlescholar:           # username          | https://scholar.google.com/citations?user=username
-  researchgate: Mohd-Afeef-Badri            # username          | https://www.researchgate.net/profile/username
+  researchgate: Nuza_Nigar            # username          | https://www.researchgate.net/profile/username
   kaggle:                  # username          | https://www.kaggle.com/username
   orcid:                   # id                | https://orcid.org/id
   figshare:                # name/id           | https://figshare.com/authors/name/id
@@ -59,7 +59,7 @@ contact:
   artstation:              # username          | https://www.artstation.com/username
 
   # other cv
-  linkedin: mabadri                # username          | https://linkedin.com/in/username
+  linkedin: Nuza_Nigar                # username          | https://linkedin.com/in/username
   indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
   xing:                    # username          | https://www.xing.com/profile/username
   fiverr:                  # username          | https://www.fiverr.com/username
@@ -92,16 +92,19 @@ experience:
   description:
 
   items:
-    - company: CEA -French Alternative Energies and Atomic Energy Commission 
-      link: 'https://www.cea.fr/'
+    - company: Hexagon Manufacturing Inteliigence
+      link: 'https://hexagon.com/'
       tags: Full-time
-      date: 2021.01 - present
-      role: Research Scientist
+      date: 2022 - present
+      role: Computational Fluid Dynamics Consultant
       location: Paris-Saclay, France
       description: |
-        Developing a high performance computing tools for scientific simulations involved in nuclear technology.
-        + Devoloping tools like SALOME, ArcaeFEM, PSD, top-ii-vol
-        + Research and development in the field of meshing, FEM, HPC
+          Conduct numerical investigations in fluid dynamics, thermal mechanics, and battery thermal management;
+          + Perform Fluid-Structure Interaction ; 
+          + Prepare technical documentation; 
+          + Published and presented conference papers; 
+          + Actively engage in software demonstrations and capabilities presentations;
+          + Client communication for problem-solving and technical discussions.
 
     - company: CEA -French Alternative Energies and Atomic Energy Commission
       link: 'https://www.cea.fr/'
